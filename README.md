@@ -10,6 +10,4 @@ Atualmente tenho conhecimento das seguintes tecnologias:
 Onde posso entrar em contato?...
 <br>
 <br>
-    <a href="https://www.instagram.com/kevenrdgz/"><img src="![image](https://github.com/KevenRodrigues044/KevenRodrigues044/assets/136384142/066db9e7-02dd-4056-95aa-6b577b81938f)
-" width="50" alt=""></a>
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevenrdgz/)
